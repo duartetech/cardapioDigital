@@ -3,6 +3,18 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background: url(imagens/bg.png);
+}
 header{
-    
+    background-color: #1E1F22;
+    z-index: -2;
+    text-align: center;
+    padding: 15px 0px;
+}
+nav a{
+    color: white;
+    margin: 0px 10px;
+    text-decoration: none;
+    font-weight: bolder;
 }
