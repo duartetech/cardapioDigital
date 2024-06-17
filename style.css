@@ -43,16 +43,20 @@ nav a{
     font-family: var(--minhaFonte);
 }
 
-.boxProduto{
+.conteiner{
     background: RGBA(37, 37, 37, 0.8);
     width: 850px;
     border-radius: var(--arrendodamentoBordas);
     margin: auto;
     vertical-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin: 20px auto;
 }
 
 .boxImagem , .boxTexto{
-    display: inline-block;
     vertical-align: middle;
 }
 .boxTexto{
@@ -69,4 +73,8 @@ button{
     padding: 15px;
     width: 150px;
     cursor: pointer;
+}
+
+section{
+    padding: 20px;
 }
