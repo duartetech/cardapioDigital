@@ -34,12 +34,17 @@ header{
 h1, h2, h3, button{
     margin: 10px 0px;
 }
+
+h3{
+    font-family: var(--minhaFonte);
+    font-size: 25px;
+}
 nav a{
     color: white;
     margin: 0px 10px;
     text-decoration: none;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
     font-family: var(--minhaFonte);
 }
 
@@ -73,6 +78,7 @@ button{
     padding: 15px;
     width: 150px;
     cursor: pointer;
+    font-weight: bold;
 }
 
 section{
