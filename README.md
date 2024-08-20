@@ -58,10 +58,3 @@ Para visualizar e testar o projeto localmente, siga estas etapas:
    ```
 
 3. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
-
-## Uso
-
-1. **Navegação**: Use o menu no cabeçalho para navegar entre as seções do cardápio.
-2. **Adicionar ao Carrinho**: Clique em "Pedir" para adicionar produtos ao carrinho e ajustar quantidades diretamente no carrinho.
-3. **Ver Detalhes**: Clique em "Ver Detalhes" para abrir um modal com informações adicionais sobre o produto.
-4. **Visualizar Publicidade**: Navegue pelo carrossel de publicidade para ver as promoções em destaque.
