@@ -5,10 +5,10 @@ Bem-vindo ao projeto **Cardápio Digital BBQ BRO**. Este projeto foi criado como
 ## Funcionalidades
 
 - **Visualização do Cardápio**: Exibe uma lista de hamburgueres, acompanhamentos e bebidas disponíveis, com imagens e descrições.
-- **Carrinho de Compras**: Permite adicionar produtos ao carrinho, ajustar quantidades e visualizar o total a pagar.
+- **Carrinho de Compras**: Permite visualizar o carrinho de compras.
 - **Detalhes do Produto**: Oferece uma visão detalhada dos produtos com informações sobre ingredientes e adicionais.
 - **Carrossel de Publicidade**: Exibe promoções e anúncios utilizando um carrossel de imagens.
-- **Modais**: Utiliza modais para mostrar detalhes adicionais dos produtos e permitir a edição de opções adicionais.
+- **Modais**: Utiliza modais para mostrar detalhes adicionais dos produtos com opções adicionais.
 
 ## Tecnologias Utilizadas
 
