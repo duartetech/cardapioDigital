@@ -49,12 +49,12 @@ Para visualizar e testar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/duartetech/cardapioDigital.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd cardapioDigital
    ```
 
 3. Abra o arquivo `index.html` em um navegador para visualizar o projeto.
